@@ -1,3 +1,7 @@
+
+
+
+
 body {
   font-family: "Montserrat";
 }
@@ -119,7 +123,7 @@ margin:20px 20px 50px;
 }
 .testimonial-image-2 {
   border-radius:100%;
-  width:13%;
+  width:140%;
   margin:20px;
 }
             /****** Pricing Section *******/
@@ -129,6 +133,14 @@ margin:20px 20px 50px;
 }
 .pricing-column {
   padding:3% 2%;
+}
+.radius {
+    border-radius: 70px;
+}
+.farsi {
+  line-height: 1.5;
+  font-weight:bold;
+  margin-bottom: 20px;
 }
 
      /***** Media Query Breakpoints  ******/
@@ -184,6 +196,35 @@ margin:20px 20px 50px;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  /****** Section for Nothing ********/
+
+
+
+
+
+/* font-family: 'Ubuntu', sans-serif;  */
 
 
 
